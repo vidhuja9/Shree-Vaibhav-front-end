@@ -52,14 +52,8 @@ Shree-Vaibhav-front-end/
 
 ---
 
-## ✨ Screenshots
- ![Screenshot 2025-06-28 154445](https://github.com/user-attachments/assets/bc2a56f7-043b-40b4-a051-577bad7e240e)
-![Screenshot 2025-06-28 154505](https://github.com/user-attachments/assets/eb516ff0-9093-4fdc-996a-633a0e59ac4c)
-![Screenshot 2025-06-28 154542](https://github.com/user-attachments/assets/89323931-1dcf-46ee-8c4d-b75e307aedb0)
-![image](https://github.com/user-attachments/assets/721b34ef-5f2e-4f00-883d-8b3cda11af2f)
-
-
-
+## ✨shree vaibhav promo preview
+https://github.com/user-attachments/assets/71c81709-d6a9-49d4-ad9d-c3eb17191672
 
 ---
 
